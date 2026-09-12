@@ -1,0 +1,3 @@
+git config --global user.email "https://github.com/tharindi-hub"
+git config --global user.name "Udeshi Tharindi"
+
